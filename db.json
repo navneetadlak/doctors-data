@@ -1,68 +1,68 @@
 {
-  "doctors": [
-    {
-      "id": 1,
-      "name": "Dr. Ankit Doe",
-      "specialty": "Cardiologist",
-      "hospital": "City Hospital",
-      "location": "Pune",
-      "contact": "123-456-7890"
-    },
-    {
-      "id": 2,
-      "name": "Dr. Jane Smith",
-      "specialty": "Pediatrician",
-      "hospital": "Children's Hospital",
-      "location": "Jaipur",
-      "contact": "987-654-3210"
-    },
-    {
-      "id": 3,
-      "name": "Dr. Shyam singh",
-      "specialty": "Orthopedic Surgeon",
-      "hospital": "OrthoCare Center",
-      "location": "Indore",
-      "contact": "567-890-1234"
-    },
-    {
-      "id": 4,
-      "name": "Dr. Suresh pal",
-      "specialty": "Orthopedic Surgeon",
-      "hospital": "OrthoCare Center",
-      "location": "mumbai",
-      "contact": "567-890-1234"
-    },
-    {
-      "id": 5,
-      "name": "Dr. Vikash rana",
-      "specialty": "Orthopedic Surgeon",
-      "hospital": "OrthoCare Center",
-      "location": "Bangalore",
-      "contact": "567-888-1234"
-    },
-    {
-      "id": 6,
-      "name": "Dr. Yash Gupta",
-      "specialty": "Surgeon",
-      "hospital": "delhi Center",
-      "location": "Delhi",
-      "contact": "567-890-1534"
-    },
-    {
-      "id": 7,
-      "name": "Dr. Vaibhav Morle",
-      "specialty": "Cardiologist",
-      "hospital": "City Hospital",
-      "location": "Ahemdabad",
-      "contact": "123-456-7890"
-    },
-     {
-      "id": 8,
-      "name": "Dr. Labhyam Sharma",
-      "specialty": "Surgeon",
-      "hospital": "City Hospital",
-      "location": "Hydrabad",
-      "contact": "123-456-7890"
-    },
-  ]
+   "doctors":[
+      {
+         "id":1,
+         "name":"Dr. Ankit Doe",
+         "specialty":"Cardiologist",
+         "hospital":"City Hospital",
+         "location":"Pune",
+         "contact":"123-456-7890"
+      },
+      {
+         "id":2,
+         "name":"Dr. Jane Smith",
+         "specialty":"Pediatrician",
+         "hospital":"Children's Hospital",
+         "location":"Jaipur",
+         "contact":"987-654-3210"
+      },
+      {
+         "id":3,
+         "name":"Dr. Shyam singh",
+         "specialty":"Orthopedic Surgeon",
+         "hospital":"OrthoCare Center",
+         "location":"Indore",
+         "contact":"567-890-1234"
+      },
+      {
+         "id":4,
+         "name":"Dr. Suresh pal",
+         "specialty":"Orthopedic Surgeon",
+         "hospital":"OrthoCare Center",
+         "location":"mumbai",
+         "contact":"567-890-1234"
+      },
+      {
+         "id":5,
+         "name":"Dr. Vikash rana",
+         "specialty":"Orthopedic Surgeon",
+         "hospital":"OrthoCare Center",
+         "location":"Bangalore",
+         "contact":"567-888-1234"
+      },
+      {
+         "id":6,
+         "name":"Dr. Yash Gupta",
+         "specialty":"Surgeon",
+         "hospital":"delhi Center",
+         "location":"Delhi",
+         "contact":"567-890-1534"
+      },
+      {
+         "id":7,
+         "name":"Dr. Vaibhav Morle",
+         "specialty":"Cardiologist",
+         "hospital":"City Hospital",
+         "location":"Ahemdabad",
+         "contact":"123-456-7890"
+      },
+      {
+         "id":8,
+         "name":"Dr. Labhyam Sharma",
+         "specialty":"Surgeon",
+         "hospital":"City Hospital",
+         "location":"Hydrabad",
+         "contact":"123-456-7890"
+      }
+   ]
 }
